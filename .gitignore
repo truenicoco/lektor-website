@@ -5,6 +5,8 @@
 .tox
 packages/*/build
 packages/*/dist
+plugins/*/build
+plugins/*/dist
 webpack/node_modules
 *~
 *#
